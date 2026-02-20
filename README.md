@@ -124,14 +124,14 @@ cloudflare/
 
 ## 技术栈
 
-| 层级     | 技术                        |
-| -------- | --------------------------- |
-| 前端框架 | React 18 + TypeScript       |
-| 构建工具 | Vite                        |
-| 样式     | Tailwind CSS                |
-| 图表     | Recharts                    |
-| 后端框架 | Hono                        |
-| 数据库   | Cloudflare D1 (SQLite)      |
-| 认证     | JWT (jose)                  |
-| 密码哈希 | Web Crypto PBKDF2           |
+| 层级 | 技术 |
+|------|------|
+| 前端框架 | React 18 + TypeScript |
+| 构建工具 | Vite |
+| 样式 | Tailwind CSS |
+| 图表 | Recharts |
+| 后端框架 | Hono |
+| 数据库 | Cloudflare D1 (SQLite) |
+| 认证 | JWT (jose) |
+| 密码哈希 | Web Crypto PBKDF2 |
 | 部署平台 | Cloudflare Workers + Assets |
